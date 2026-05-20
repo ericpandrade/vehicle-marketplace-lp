@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Ratinho das Motos | Motos Seminovas em Fortaleza - CE",
     description:
-      "Motocicletas com procedência garantida. Negocie direto pelo WhatsApp.",
+      "Motocicletas com segurança garantida. Negocie direto pelo WhatsApp.",
     type: "website",
     locale: "pt_BR",
   },

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Black background circle -->
+  <circle cx="16" cy="16" r="16" fill="#0a0a0a"/>
+  <!-- Red accent ring -->
+  <circle cx="16" cy="16" r="14.5" fill="none" stroke="#cc0000" stroke-width="1.5"/>
+  <!-- Bold R letter -->
+  <text
+    x="16"
+    y="22"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="18"
+    font-weight="900"
+    fill="#ffffff"
+    text-anchor="middle"
+    letter-spacing="-1"
+  >R</text>
+</svg>

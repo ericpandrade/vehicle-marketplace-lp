@@ -17,7 +17,7 @@ const DIFERENCIAIS = [
   {
     icon: "🛡️",
     title: "Confiança",
-    text: "Motos com procedência garantida e documentação pronta para transferência.",
+    text: "Motos com segurança garantida e documentação pronta para transferência.",
   },
   {
     icon: "⚙️",
@@ -76,11 +76,9 @@ export default function Home() {
           />
           <div className="max-w-3xl mx-auto text-center relative z-10">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black uppercase leading-tight tracking-tight mb-5">
-              A MOTO DOS SEUS{" "}
-              <span className="text-[#cc0000]">SONHOS</span>
-              <br className="hidden sm:block" />
-              {" "}COM A{" "}
-              <span className="text-[#cc0000]">PROCEDÊNCIA</span>
+              A MOTO DOS SEUS <span className="text-[#cc0000]">SONHOS</span>
+              <br className="hidden sm:block" /> COM A{" "}
+              <span className="text-[#cc0000]">SEGURANÇA</span>
               <br />
               QUE VOCÊ EXIGE!
             </h1>
@@ -188,8 +186,9 @@ export default function Home() {
             </h2>
             <p className="text-[#b8b8b8] text-sm sm:text-base md:text-lg leading-relaxed mb-8 max-w-2xl mx-auto">
               Fale direto com o Ratinho das Motos pelo WhatsApp. Avaliamos sua
-              moto, negociamos troca, consultamos possibilidades de financiamento
-              e informamos as oportunidades disponíveis no momento.
+              moto, negociamos troca, consultamos possibilidades de
+              financiamento e informamos as oportunidades disponíveis no
+              momento.
             </p>
             <div className="flex flex-col gap-3 sm:flex-row sm:gap-4 justify-center">
               <a
@@ -271,7 +270,7 @@ export default function Home() {
               </h2>
               <p className="text-[#b8b8b8] text-sm sm:text-base leading-relaxed">
                 No Ratinho das Motos, você conversa direto com quem entende do
-                negócio. A proposta é simples: moto com procedência, negociação
+                negócio. A proposta é simples: moto com segurança, negociação
                 transparente e atendimento rápido para quem quer fechar negócio
                 sem enrolação.
               </p>
