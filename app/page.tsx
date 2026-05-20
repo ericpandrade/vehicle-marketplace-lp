@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Gallery } from "./components/Gallery";
 
 const WA_LINK =
-  "https://wa.me/5585986561786?text=Ol%C3%A1%2C%20Ratinho!%20Vi%20o%20seu%20site%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20as%20motos%20do%20estoque.";
+  "https://wa.me/5585998153317?text=Ol%C3%A1%2C%20Ratinho!%20Vi%20o%20seu%20site%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20as%20motos%20do%20estoque.";
 
 const SPECS = [
   { label: "Ano", value: "2014" },

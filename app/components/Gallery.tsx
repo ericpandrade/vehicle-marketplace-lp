@@ -5,35 +5,35 @@ import Image from "next/image";
 
 const photos = [
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-1.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-1.jpg",
     alt: "Honda CG 150 Titan 2014 - Frontal",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-2.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-2.jpg",
     alt: "Honda CG 150 Titan 2014 - Visão do painel",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-3.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-3.jpg",
     alt: "Honda CG 150 Titan 2014 - Lateral com tanque",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-4.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-4.jpg",
     alt: "Honda CG 150 Titan 2014 - Lateral direita com bagageiro",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-5.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-5.jpg",
     alt: "Honda CG 150 Titan 2014 - Velocímetro 96.429 km",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-6.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-6.jpg",
     alt: "Honda CG 150 Titan 2014 - Lateral na oficina",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-7.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-7.jpg",
     alt: "Honda CG 150 Titan 2014 - Perfil completo esquerda",
   },
   {
-    src: "/motos/HON-CG150-TIT-VM[1]/foto-8.jpg",
+    src: "/motos/HON-CG150-TIT-VM[OSR-7155]/foto-8.jpg",
     alt: "Honda CG 150 Titan 2014 - Perfil completo direita",
   },
 ];
